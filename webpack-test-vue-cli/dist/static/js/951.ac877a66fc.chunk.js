@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebpack_test_vue_cli=self.webpackChunkwebpack_test_vue_cli||[]).push([[951],{951:function(e,t,u){u.r(t),u.d(t,{default:function(){return r}});var c=u(252);const a={class:"about-title"};var n={name:"About"};var r=(0,u(744).Z)(n,[["render",function(e,t,u,n,r,s){return(0,c.wg)(),(0,c.iD)("h1",a,"hello About")}],["__scopeId","data-v-8c9894b8"]])}}]);
+//# sourceMappingURL=951.ac877a66fc.chunk.js.map
